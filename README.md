@@ -10,22 +10,22 @@ Features
 
   Data Cleaning and Preprocessing:
 
-    . Handled missing values using padding and logical inference.
+  . Handled missing values using padding and logical inference.
   
-    . Encoded categorical variables into numeric representations.
+  . Encoded categorical variables into numeric representations.
   
-    . Removed unnecessary columns for better performance.
+  . Removed unnecessary columns for better performance.
 
   Feature Engineering:
 
-    . Added age categorization to group customers into age ranges.
+  . Added age categorization to group customers into age ranges.
     
-    . Derived additional insights from spending scores, marriage status, and professions.
+  . Derived additional insights from spending scores, marriage status, and professions.
 
   Model Training:
 
-  Trained a K-Prototypes clustering model to group customers into 4 clusters.
+  . Trained a K-Prototypes clustering model to group customers into 4 clusters.
 
   Visualization:
 
-   Generated pie charts and bar plots for cluster characteristics, including spending scores, marital status, and profession distribution.
+   . Generated pie charts and bar plots for cluster characteristics, including spending scores, marital status, and profession distribution.
