@@ -24,8 +24,8 @@ Features
 
   Model Training:
 
-    . Trained a K-Prototypes clustering model to group customers into 4 clusters.
+  Trained a K-Prototypes clustering model to group customers into 4 clusters.
 
   Visualization:
 
-    . Generated pie charts and bar plots for cluster characteristics, including spending scores, marital status, and profession distribution.
+   Generated pie charts and bar plots for cluster characteristics, including spending scores, marital status, and profession distribution.
